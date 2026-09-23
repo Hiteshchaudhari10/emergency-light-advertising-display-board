@@ -1,6 +1,6 @@
 # 🚨 Emergency Light Cum Advertising Display Board
 
-A PCB-based **Emergency Light Cum Advertising Display Board** developed as a **Second Year Electronics & Computer Engineering Mini Project** under **Dr. Babasaheb Ambedkar Technological University (DBATU)**.
+A PCB-based **Emergency Light Cum Advertising Display Board** developed as a **Second Year Electronics & Computer Engineering Mini Project** under **Dr. Babasaheb Ambedkar Technological University (DBATU)**. 
 
 This project automatically switches to battery-powered emergency lighting during a power failure while also functioning as an LED advertising display under normal conditions.
 
